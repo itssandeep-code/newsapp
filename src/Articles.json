@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Drone strikes on civilians suggest new Russian terror tactic in Ukraine",
+        "description": "Ukrainians tell of their fear as BBC Verify analyses videos appearing to show drone strikes on civilians.",
+        "url": "https://www.bbc.co.uk/news/articles/c207gz7key6o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80ed/live/059305a0-96d0-11ef-90df-3f1823a91773.jpg",
+        "publishedAt": "2024-10-31T07:07:22.8444272Z",
+        "content": "Just before noon one day Serhiy Dobrovolsky, a hardware trader, returned to his home in Kherson in southern Ukraine. He stepped into his yard, lit a cigarette and chatted with his next-door neighbour… [+1264 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Radiohead singer Thom Yorke walks off stage as fan shouts Gaza protests",
+        "description": "Thom Yorke hit back at the fan after he heckled the singer over death numbers in Gaza during a performance in Melborne.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yrv2zyd22o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f66d/live/0ab3d430-9750-11ef-9d53-85e9b8570d92.jpg",
+        "publishedAt": "2024-10-31T07:07:18.593133Z",
+        "content": "His exit came as the heckler had repeated his call and added \"how many dead children will it take\".\r\nSegments of the crowd could be heard booing the disturbance, and Yorke returned to cheers shortly … [+2029 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Emma Lovell: Australian man cleared of murdering British woman",
+        "description": "Emma Lovell was fatally stabbed after confronting two intruders in a suburb north of Brisbane in 2022.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyx722590jo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cfb5/live/d84d1cb0-9743-11ef-a41c-dd1648bd8502.jpg",
+        "publishedAt": "2024-10-31T05:52:15.1874513Z",
+        "content": "The judge-only trial heard it had been accepted the second defendant, who cannot legally be named as he was 17 at the time of the attack, did not stab anyone himself.\r\nThe matter in contention was wh… [+1662 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Looe: Eight believed to be injured in land train incident",
+        "description": "Emergency services were called to Tregoad Holiday Park, near Looe, on Wednesday evening.",
+        "url": "https://www.bbc.co.uk/news/articles/cd0gjkzedlgo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a547/live/d5e39890-9708-11ef-ba32-936fdf7b8d8a.jpg",
+        "publishedAt": "2024-10-31T03:07:13.8744883Z",
+        "content": "Eight people are thought to have been injured in an incident involving a land train in Cornwall, police have said.\r\nOfficers were called to Tregoad Holiday Park in St Martin, near Looe, at about 19:0… [+293 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "North Korea fires suspected intercontinental ballistic missile",
+        "description": "The launch comes at a time of deteriorating relations between the two Koreas.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgry8rpzn4o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/378e/live/fdccc640-9723-11ef-9d44-371ede30ce71.jpg",
+        "publishedAt": "2024-10-31T02:22:17.7182197Z",
+        "content": "North Korea last fired an ICBM in December last year, in defiance of long-standing and crippling UN sanctions.\r\nNeighbouring Japan said that it monitored Thursday's launch, adding that the missile wa… [+356 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Chris Mason: A change-making Budget and a moment of jeopardy",
+        "description": "The government's fate will depend on whether it can make things better, says political editor Chris Mason.",
+        "url": "https://www.bbc.co.uk/news/articles/c8rl5pnm47do",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/343a/live/41ca7cd0-9728-11ef-92e9-97259b4a308c.jpg",
+        "publishedAt": "2024-10-31T01:37:17.3431857Z",
+        "content": "This was a huge, change-making budget.\r\nDont let anyone tell you there isnt much difference between the main parties at Westminster.\r\nThis was a Budget with Labours instincts and worldview stamped th… [+1945 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "My afternoon with protesters who stand outside abortion clinics",
+        "description": "As a ban on protesting within 150m of abortion clinics is introduced, the BBC speaks to anti-abortion activists.",
+        "url": "https://www.bbc.co.uk/news/articles/c7v3dlld58qo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7341/live/9550f510-96e6-11ef-8538-e1655f5a8342.jpg",
+        "publishedAt": "2024-10-31T01:22:25.328544Z",
+        "content": "When I arrive at an abortion clinic in south London, four protesters - three women and one man - are gathered on the opposite side of the road alongside a picture of the Virgin Mary, which is draped … [+2881 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "'We earn £100,000. We are not worse off after the Budget'",
+        "description": "People tell the BBC how much they earn and what they made of the Budget.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyv8y68e25o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/623d/live/12a01a80-96ee-11ef-adc9-970c197ac134.jpg",
+        "publishedAt": "2024-10-31T01:22:19.9220831Z",
+        "content": "Allana gets both the full state pension and a small army pension, totalling £1,200 a month, which she says doesn't cover all of her outgoings. She also expects her mortgage to \"virtually double\" in t… [+871 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Newspaper headlines: 'Reeves' £40bn tax gamble' and 'bombshell for Britain's strivers'",
+        "description": "Reactions to the Budget, which saw large rises in both tax and public spending, lead the papers.",
+        "url": "https://www.bbc.co.uk/news/articles/c170exnp9wyo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb91/live/cb495f00-9717-11ef-a41c-dd1648bd8502.png",
+        "publishedAt": "2024-10-31T00:22:14.5161415Z",
+        "content": "Image caption, The Budget delivered by Rachel Reeves on Wednesday, the first by a Labour chancellor in 14 years, dominates the front pages. The Metro says Reeves announced a \"huge series of investmen… [+178 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Spain battles deadliest flooding disaster in decades as death toll rises",
+        "description": "Spain is enduring its worst flooding disaster in decades, with at least 95 people dead and dozens more missing.",
+        "url": "https://www.bbc.co.uk/news/articles/c99ry7x925eo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dffd/live/ebb7ebd0-9703-11ef-ba32-936fdf7b8d8a.png",
+        "publishedAt": "2024-10-30T21:52:15.9848948Z",
+        "content": "Spain deployed more than 1,000 troops to help with rescue efforts on Wednesday, but many crews remain cut off from towns by flooded roads and downed communication and power lines.\r\nThe European Union… [+1647 chars]"
+      }
+    ]
+  }
